@@ -11,7 +11,7 @@ def test_sub():
     assert sub(3,1) == 2
 
 def test_mul():
-    assert sub(3,2) == 6
+    assert mul(3,2) == 6
 
-def test_sub():
-    assert sub(4,2) == 2 
+def test_div():
+    assert div(4,2) == 2 
